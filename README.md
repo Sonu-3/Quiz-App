@@ -1,4 +1,4 @@
-# Quiz-App
+# Quiz-App : https://github.com/Sonu-3/Quiz-App.git
 Hello, this is a web based quiz app created with HTML, CSS and JavaScript.
 It fetches data from API to show questions and options in the quiz.
 It have a timer of 15 min.
