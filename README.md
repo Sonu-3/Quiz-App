@@ -5,7 +5,7 @@ It have a timer of 15 min.
 You have to appear for 10 questions of Biology Neet Level in 15 minutes.
 
 Instruction to setup:
-  Well I don't have any hosting plattform so, to setup fork the project and keep all the html, css and javascript file in one single folder then run the html file on any web browser.
+  Well I didn't host this anywhere so it needed to fork in it in the machine to run, to setup fork the project and keep all the html, css and javascript file in one single folder then run the html file on any web browser.
 
 Here are the screenshots and videos:
 
